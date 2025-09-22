@@ -106,7 +106,7 @@ At the same time, I ensure the frontend remains simple, responsive, and user-fri
                 <div>
                   <h4 className="font-bold">
                     {" "}
-                    Software Engineer at AbserveTech Technologies Pvt Ltd (2019 - Present){" "}
+                    Software Engineer at AbserveTech Technologies Pvt Ltd (2021 - Present){" "}
                   </h4>
                   <p>
                     Developed and maintained Monolithic and microservices for Bussiness and fintech
