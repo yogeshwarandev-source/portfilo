@@ -1,5 +1,8 @@
 import { RevealOnScroll } from "../RevealOnScroll";
 
+import profile from "../assets/profile.jpg";
+
+
 export const Home = () => {
   return (
     <section
@@ -9,7 +12,7 @@ export const Home = () => {
       <RevealOnScroll>
         <div className="text-center z-10 px-4">
           <img
-            src="/profile.jpg" 
+            src= {profile}
            className="w-45 h-45 mx-auto rounded-full mb-6 border-4 border-blue-500 shadow-lg object-cover"
           />
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">
