@@ -48,6 +48,14 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
               {" "}
               Contact{" "}
             </a>
+<a
+  href="/resume.pdf" // Path to your resume file in public folder
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-gray-300 hover:text-white transition-colors border border-gray-300 px-3 py-1 rounded-md"
+>
+  Download Resume
+</a>
           </div>
         </div>
       </div>
